@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Biostatistics"]
+	path = Biostatistics
+	url = https://github.com/rjknell/biostatistics
+	shallow = true
+	registered = true
